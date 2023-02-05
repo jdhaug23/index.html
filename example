@@ -2,10 +2,24 @@
 <html>
 <body>
 
-<h1>My First Heading</h1>
+<h1>Josh Haug</h1>
 
-<p>My first paragraph.</p>
+
+<h3>Contact</h3>
+
+<p>haugjd@dukes.jmu.edu</p>
+<p>2467 Bayberry Lane</p>
+<p>Harrisonburg, VA 22807</p>
+
+<img src="sunset.jpg" alt="Me at VCU">
+
+
+<h2>Skills</h2>
+	<ul>
+    	<li>Adobe Creative Cloud</li>
+        <li>Microsoft Office</li>
+        <li>Wordpress</li>
+        <li>Canva</li>
 
 </body>
 </html>
-
