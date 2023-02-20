@@ -10,3 +10,8 @@ p {font-size:16 px;
 body{
  background-color: #778899;
 }
+
+
+ul{
+ list-style-type: circle;
+}
